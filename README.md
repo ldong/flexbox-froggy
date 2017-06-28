@@ -16,6 +16,7 @@ align-content: auto | flex-start | flex-end | center | baseline | stretch
 ```
 
 *align-content*: determines the spacing between lines
+
 *align-items*: determines how the items as a whole are aligned within the container. When there is only one line, align-content has no effect.
 
 ![](./align-content.png)
