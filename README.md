@@ -35,6 +35,16 @@ baseline: Items display at the baseline of the container.
 stretch: Items are stretched to fit the container.
 ```
 
+## justify-content 
+ 
+```
+flex-start: Items align to the left side of the container.
+flex-end: Items align to the right side of the container.
+center: Items align at the center of the container.
+space-between: Items display with equal spacing between them.
+space-around: Items display with equal spacing around them.
+```
+
 ## Level 24 Answers
 ```
 flex-direction: column-reverse;
