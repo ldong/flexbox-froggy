@@ -45,6 +45,19 @@ space-between: Items display with equal spacing between them.
 space-around: Items display with equal spacing around them.
 ```
 
+## align-content 
+
+To set how multiple lines are spaced apart from each other. This property takes the following values:
+
+```
+flex-start: Lines are packed at the top of the container.
+flex-end: Lines are packed at the bottom of the container.
+center: Lines are packed at the vertical center of the container.
+space-between: Lines display with equal spacing between them.
+space-around: Lines display with equal spacing around them.
+stretch: Lines are stretched to fit the container.
+```
+
 ## Level 24 Answers
 ```
 flex-direction: column-reverse;
