@@ -24,6 +24,17 @@ align-content: auto | flex-start | flex-end | center | baseline | stretch
 ![](./align-items.png)
 
 
+
+## align-items 
+
+```
+flex-start: Items align to the top of the container.
+flex-end: Items align to the bottom of the container.
+center: Items align at the vertical center of the container.
+baseline: Items display at the baseline of the container.
+stretch: Items are stretched to fit the container.
+```
+
 ## Level 24 Answers
 ```
 flex-direction: column-reverse;
