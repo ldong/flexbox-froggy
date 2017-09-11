@@ -58,6 +58,8 @@ space-around: Lines display with equal spacing around them.
 stretch: Lines are stretched to fit the container.
 ```
 
+This can be confusing, but *align-content* determines the spacing between lines, while *align-items* determines how the items as a whole are aligned within the container. When there is only one line, *align-content* has no effect
+
 ## Level 24 Answers
 ```
 flex-direction: column-reverse;
